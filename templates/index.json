@@ -6,15 +6,15 @@
         "7c7200c0-9e25-4d6f-8e80-68098f92561e": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/lifestyle-1-mobile.jpg",
-            "img_desktop": "shopify:\/\/shop_images\/lifestyle-1.jpg",
+            "img_mobile": "shopify:\/\/shop_images\/hall_of_framers.jpg",
+            "img_desktop": "shopify:\/\/shop_images\/hall_of_framers.jpg",
             "img_opacity": 0.7,
-            "title": "Welcome to KS BootShop Theme",
-            "title_size": "h2",
-            "description": "<p>Free Shopify Theme powered by Bootstrap v5 framework<\/p>",
+            "title": "Welcome to Hall of Framers 2.0!",
+            "title_size": "h1",
+            "description": "<p>Browse our full product catalog - Delivered to US & Canada<\/p>",
             "description_size": "fs-5",
-            "btn_text": "Download FREE",
-            "btn_url": "https:\/\/github.com\/kondasoft\/ks-bootshop",
+            "btn_text": "Browse Products",
+            "btn_url": "",
             "btn_color": "btn-primary",
             "btn_size": ""
           }
@@ -22,14 +22,14 @@
         "45eefe8d-75a6-4c0d-83c1-bf904392cb96": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/lifestyle-2-mobile.jpg",
-            "img_desktop": "shopify:\/\/shop_images\/lifestyle-2.jpg",
+            "img_mobile": "shopify:\/\/shop_images\/osu.jpg",
+            "img_desktop": "shopify:\/\/shop_images\/osu.jpg",
             "img_opacity": 0.7,
-            "title": "Simple to Use, Easy to Customize",
-            "title_size": "h2",
-            "description": "<p>Free Shopify Theme powered by Bootstrap v5 framework<\/p>",
+            "title": "OSU Victory Month!",
+            "title_size": "h1",
+            "description": "<p>Free delivery on all OSU memorabilia until Dec 31ˢᵗ<\/p>",
             "description_size": "fs-5",
-            "btn_text": "Download FREE",
+            "btn_text": "Browse OSU Catalog",
             "btn_url": "https:\/\/github.com\/kondasoft\/ks-bootshop",
             "btn_color": "btn-primary",
             "btn_size": ""
@@ -139,7 +139,6 @@
         "a31f2a51-209c-40f5-8782-38280ee0b30d": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/collection-5.jpg",
             "img_width": "600",
             "img_height": "300",
             "img_crop": "center",
@@ -156,7 +155,6 @@
         "8e95535f-a8b1-440c-8dc1-47263a1da13e": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/collection-3.jpg",
             "img_width": "600",
             "img_height": "300",
             "img_crop": "center",
@@ -173,7 +171,6 @@
         "9450772e-4e92-4251-97cd-69e844e7fe9f": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/collection-2.jpg",
             "img_width": "600",
             "img_height": "300",
             "img_crop": "center",
@@ -190,7 +187,6 @@
         "5f2ca4c4-dfa9-477b-95dc-1887e7efbb45": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/collection-4.jpg",
             "img_width": "600",
             "img_height": "300",
             "img_crop": "center",
@@ -304,7 +300,6 @@
       "type": "image-with-text",
       "settings": {
         "bg_color": "bg-light text-body",
-        "image": "shopify:\/\/shop_images\/no-image.jpg",
         "img_width": "900",
         "img_height": "600",
         "img_crop": "center",
